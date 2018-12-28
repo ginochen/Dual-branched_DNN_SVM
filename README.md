@@ -1,1 +1,2 @@
-Click [here](https://nbviewer.jupyter.org/github/ginochen/XGBoost_DNN_SVM_LogReg_RandForest/blob/master/XGBoost_DNN_SVM_LogReg_RandForest.ipynb) for project details.
+Click [here](https://nbviewer.jupyter.org/github/ginochen/Dual-branched_DNN_SVM/blob/master/Dual-branched_DNN_SVM
+.ipynb) for project details.
