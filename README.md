@@ -1,4 +1,4 @@
-Click [here](https://nbviewer.jupyter.org/github/ginochen/Dual-branched_DNN_SVM/blob/master/Dual_branched_DNN_SVM.ipynb) for project details.
+# Click [here](https://nbviewer.jupyter.org/github/ginochen/Dual-branched_DNN_SVM/blob/master/Dual_branched_DNN_SVM.ipynb) for project details.
 
 The `car_model.py` is used as:
 
