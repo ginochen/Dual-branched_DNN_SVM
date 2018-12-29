@@ -36,4 +36,4 @@ d = {'n_reservation':[i[0] for i in y_pred[0]], 'reservation_type':list(lb.inver
 df = pd.DataFrame(data=d)
 df.to_csv(output)
 print('total reservation predicted = %s' %str(sum(y_pred[0])))
-#print('finished saving output to file: %s' % output)
+print('finished saving output to file: %s' % output)
